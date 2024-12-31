@@ -178,9 +178,6 @@
 - [Email](mailto:your.email@example.com)
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
-
-![Profile views](https://gpvc.arturio.dev/yourusername)
-
 ![Windows-Badge](https://img.shields.io/badge/Microsoft-Windows%2011-0078D6?logo=windows&logoColor=0078D6&labelColor=white)
 ![AppleMac-Badge](https://img.shields.io/badge/Apple-macOS-000000?logo=apple&logoColor=white&labelColor=black)
 ![Linux-Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white)
