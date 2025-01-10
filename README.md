@@ -2,11 +2,11 @@
 
 <!--
 **davidtkeane/davidtkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
+-->
 
 ### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
 
