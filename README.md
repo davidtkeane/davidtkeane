@@ -21,7 +21,6 @@
 
 <br/>  
 
-
 # Hi there 👋
 
 - 💬 Ask me about ...
@@ -37,6 +36,8 @@
 <details>
 
 <summary>📊 My Skill Set </summary>
+
+<p>
 
 <table><tr><td valign="top" width="33%">
 
