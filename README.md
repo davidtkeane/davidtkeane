@@ -21,12 +21,13 @@
 
 ## 📫 How to reach me
 
-- 💬 Ask me about ...  @ FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
+- 💬 Ask me about ... Stuff. Contact Me.
 
-- [Email Me @](mailto:david@icanhelp.ie)
+- 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
+
+- [Email Me david@icanhelp.ie](mailto:david@icanhelp.ie)
 - [LinkedIn](https://www.linkedin.com/in/davidtkeane)
 - ![Discord](https://img.shields.io/discord/815701213827301396?logo=discord&style=flat-square)
-
 
 <details>
 
