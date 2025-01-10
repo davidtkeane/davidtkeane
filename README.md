@@ -17,25 +17,20 @@
 
 - ❓ Ask me about anything related to psychology and technology 
 
-- ⚡ Fun fact: I use tabs over spaces 
-
-<br/>  
-
-# Hi there 👋
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ⚡ Fun fact: I use tabs over space stations anyday. 
 
 ## 📫 How to reach me
 
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💬 Ask me about ...  @ FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
+
+- [Email Me @](mailto:david@icanhelp.ie)
+- [LinkedIn](https://www.linkedin.com/in/davidtkeane)
 - ![Discord](https://img.shields.io/discord/815701213827301396?logo=discord&style=flat-square)
 
 
 <details>
 
-<summary>📊 My Skill Set </summary>
+<summary><h2> 📊 My Skill Set </h2></summary>
 
 <p>
 
