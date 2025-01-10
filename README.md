@@ -4,34 +4,41 @@
 **davidtkeane/davidtkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+- 🔭 I’m currently working on [PhoneBook-Twilio](https://github.com/davidtkeane/PhoneBook-CLI)<br><p>
+[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+- 🌱 I’m currently learning Python, Google Colabs and Ollama/OpenAi/Gemini  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to psychology and technology 
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces 
 
 <br/>  
 
 
-## My Skill Set  
+# Hi there 👋
+
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+
+## 📫 How to reach me
+
+- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- ![Discord](https://img.shields.io/discord/815701213827301396?logo=discord&style=flat-square)
+
+
+<details>
+
+<summary>📊 My Skill Set </summary>
+
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -53,8 +60,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -74,8 +79,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -93,7 +96,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -122,22 +124,17 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
 ## Github Stats  
-
 
 ### Github  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=davidtkeane&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
 ## Recent Blog Posts  
-
 
 ### Blog  
 
@@ -155,7 +152,6 @@
 <img src="https://komarev.com/ghpvc/?username=davidtkeane&&style=flat-square" align="center" />
 </div>  
   
-
 <br/>  
 
 <div align="center">
@@ -171,35 +167,6 @@
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 </div>
+</details>
 
 
-# Hi there 👋
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 
-## 📫 How to reach me
-
-- [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-![Windows-Badge](https://img.shields.io/badge/Microsoft-Windows%2011-0078D6?logo=windows&logoColor=0078D6&labelColor=white)
-![AppleMac-Badge](https://img.shields.io/badge/Apple-macOS-000000?logo=apple&logoColor=white&labelColor=black)
-![Linux-Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&labelColor=white)
-
-[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26388%26project%3D%26in=0)](https://codetime.dev)
-
-[![Gmail Multi-Account CLI](https://img.shields.io/badge/Gmail-Multi--Account%20CLI-green?logo=gmail&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/gmail-multi-cli)
-[![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-red?style=flat&logo=gmail&logoColor=white&labelColor=gray)](https://github.com/davidtkeane/gmail-multi-cli)
-[![Gmail Python CLI](https://img.shields.io/badge/Gmail-Python%20CLI-blue?style=flat&logo=gmail&logoColor=white&labelColor=red)](https://github.com/davidtkeane/gmail-multi-cli)
-[![Sleep CLI](https://img.shields.io/badge/Sleep-CLI-blue)](https://github.com/davidtkeane/Sleep-CLI)
-[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-blue)](https://github.com/davidtkeane/PhoneBook-CLI)
-[![Kermit ScreenSaver](https://img.shields.io/badge/kermit-screensaver-blue)](https://github.com/davidtkeane/kermit)
-
-![Discord](https://img.shields.io/discord/815701213827301396)
-
-[![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidtkeane)
-[![X](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/davidtkeane)
-[![Linkedin](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=davidtkeane&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/davidtkeane)
