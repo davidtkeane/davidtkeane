@@ -11,7 +11,6 @@
 ### <div align="left">A full-time student - full-stack freelance developer and psychologist 👨‍💻 working remotely since 2013 🚀</div>  
 
 - 🔭 I’m currently working on a project called PhoneBook CLI which is a command-line interface for managing phone numbers and contacts.
-[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)<br><p>
 
 - 🌱 I’m currently learning Python, Google Colabs and Ollama/OpenAi/Gemini  
 
@@ -24,6 +23,17 @@
 - 💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie)
 
 - 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
+
+### 💻  My GitHub Repositories
+
+💬 These are the recent repositories I have created on GitHub.
+<p>
+
+[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
+[![ChatGPT CLI](https://img.shields.io/badge/ChatGPT-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/ChatGPT-CLI)
+[![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Gmail-CLI)
+[![WhatsApp CLI](https://img.shields.io/badge/WhatsApp-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/WhatsApp-CLI)
+
 
 <details>
 
