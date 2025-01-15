@@ -16,7 +16,7 @@
 
 - ❓ Ask me about anything related to psychology and technology 
 
-- ⚡ Fun fact: I use tabs over space stations anyday. 
+- ⚡ Fun fact: I use tabs over space stations anyday!  
 
 ## 📫 How to reach me
 
@@ -24,15 +24,21 @@
 
 - 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
 
-### 💻  My GitHub Repositories
+
+## 💻  My Latest GitHub Repositories
+
 
 💬 These are the recent repositories I have created on GitHub.
-<p>
 
+📦 
+[![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Ollama-CLI)
+[![Gemini CLI](https://img.shields.io/badge/Gemini-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Gemini-CLI)
+[![Todo CLI](https://img.shields.io/badge/Todo-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Todo-CLI)
 [![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
 [![ChatGPT CLI](https://img.shields.io/badge/ChatGPT-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/ChatGPT-CLI)
 [![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Gmail-CLI)
 [![WhatsApp CLI](https://img.shields.io/badge/WhatsApp-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/WhatsApp-CLI)
+📦
 
 
 <details>
