@@ -21,7 +21,7 @@
 ## 💻  My Latest GitHub Repositories
 
 
-💬 These are the recent repositories I have created on GitHub.
+- 💬 These are the recent repositories I have created on GitHub.
 
 📦 
 [![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Ollama-CLI)
