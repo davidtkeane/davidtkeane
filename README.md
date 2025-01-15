@@ -21,13 +21,9 @@
 
 ## 📫 How to reach me
 
-- 💬 Ask me about ... Stuff. Contact Me.
+- 💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie)
 
 - 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
-
-- [Email Me david@icanhelp.ie](mailto:david@icanhelp.ie)
-- [LinkedIn](https://www.linkedin.com/in/davidtkeane)
-- ![Discord](https://img.shields.io/discord/815701213827301396?logo=discord&style=flat-square)
 
 <details>
 
@@ -96,31 +92,34 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
+<a href="https://twitter.com/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<a href="https://www.facebook.com/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
+<a href="https://instagram.com/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/iamrishavanand" target="_blank">
+<a href="https://www.youtube.com/user/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/iamrishavanand" target="_blank">
+<a href="https://gitlab.com/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/iamrishavanand" target="_blank">
+<a href="https://stackoverflow.com/users/davidtkeane" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+<a href="https://www.linkedin.com/in/davidtkeane" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-davidtkeane-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://discord.com/users/davidtkeane" target="_blank">
+<img src=https://img.shields.io/badge/Discord-Online-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <br/>  
 
