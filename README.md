@@ -36,7 +36,7 @@
 
 ## 📫 How to reach me
 
-💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie) 
+- 💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie) 
 
 <details>
 
