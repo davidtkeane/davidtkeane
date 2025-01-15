@@ -36,10 +36,10 @@
 [![Todoist CLI](https://img.shields.io/badge/Todoist-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
 [![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
 [![ChatGPT CLI](https://img.shields.io/badge/ChatGPT-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/ChatGPT-CLI)
-[![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/gmail-multi-cli)
+[![Sleep CLI](https://img.shields.io/badge/Sleep-CLI-yellow)](https://github.com/davidtkeane/Sleep-CLI)
 [![Kermit CLI](https://img.shields.io/badge/Kermit-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/kermit)
+[![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=gmail&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/gmail-multi-cli)
 📦
-
 
 <details>
 
