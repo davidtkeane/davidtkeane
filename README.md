@@ -10,7 +10,7 @@
 
 ### <div align="left">A full-time student - full-stack freelance developer and psychologist 👨‍💻 working remotely since 2013 🚀</div>  
 
-- 🔭 I’m currently working on a project called PhoneBook CLI which is a command-line interface for managing phone numbers and contacts.
+- 🔭 I’m currently working on PhoneBook CLI which is a app for managing numbers and saving contacts.
 
 - 🌱 I’m currently learning Python, Google Colabs and Ollama/OpenAi/Gemini  
 
