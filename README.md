@@ -18,13 +18,6 @@
 
 - ⚡ Fun fact: I use tabs over space stations anyday!  
 
-## 📫 How to reach me
-
-- 💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie)
-
-- 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
-
-
 ## 💻  My Latest GitHub Repositories
 
 
@@ -40,6 +33,18 @@
 [![Kermit CLI](https://img.shields.io/badge/Kermit-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/kermit)
 [![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=gmail&logoColor=white&labelColor=EA4335)](https://github.com/davidtkeane/gmail-multi-cli)
 📦
+
+## 📫 How to reach me
+
+- 💬 Ask me about ... Stuff @ [david@icanhelp.ie](mailto:david@icanhelp.ie)
+
+- 💬 Ask about me @ ... FBI, CIA, Interpol and if they haven't heard of me, then I am doing a good job!
+
+- 💬 Ask me about my work @ ... Google, Microsoft, Amazon and if they haven't heard of me, then I am doing a good job!
+
+- 💬 Ask me about my life @ ... Family, friends, hobbies and if they haven't heard of me, then I am doing a good job
+
+- 💬 Ask me about my hobbies @ ... Reading, writing, painting and if they haven't heard of me, then I am doing a good job!
 
 <details>
 
