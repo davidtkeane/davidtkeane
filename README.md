@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm David.
 
 <!--
 **davidtkeane/davidtkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 </div>  
 -->
 
-### <div align="center">I'm David, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="left">A full-time student - full-stack freelance developer and psychologist 👨‍💻 working remotely since 2013 🚀</div>  
 
 - 🔭 I’m currently working on [PhoneBook-Twilio](https://github.com/davidtkeane/PhoneBook-CLI)<br><p>
 [![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
