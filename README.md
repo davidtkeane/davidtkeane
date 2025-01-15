@@ -24,7 +24,7 @@
 - 💬 These are the recent repositories I have created on GitHub.
 
 📦 
-[![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Ollama-CLI)
+[![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/ollama-tests)
 [![OpenAI CLI](https://img.shields.io/badge/OpenAI-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/openai-tests)
 [![Todoist CLI](https://img.shields.io/badge/Todoist-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
 [![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
