@@ -33,7 +33,7 @@
 📦 
 [![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/Ollama-CLI)
 [![OpenAI CLI](https://img.shields.io/badge/OpenAI-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/openai-tests)
-[![Todoist CLI](https://img.shields.io/badge/Todo-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
+[![Todoist CLI](https://img.shields.io/badge/Todoist-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
 [![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
 [![ChatGPT CLI](https://img.shields.io/badge/ChatGPT-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/ChatGPT-CLI)
 [![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-yellow?logo=whatsapp&logoColor=white)](https://github.com/davidtkeane/gmail-multi-cli)
