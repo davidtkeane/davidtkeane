@@ -2,7 +2,7 @@
 **davidtkeane/davidtkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### <div align="left">🎖️ Cybersecurity Master's student (Year 1) | Applied Psychology BSc | Building accessible security solutions 🚀</div>
+### <div align="left">🎖️ Cybersecurity Master's student (Year 2) | Applied Psychology BSc | Building accessible security solutions 🚀</div>
 
 ### <div align="left">Combining human behavior analysis with security engineering to transform disabilities into superpowers for 1.3+ billion
 people worldwide</div>
