@@ -97,24 +97,18 @@ Understanding the human behind the keyboard makes better security. My psychology
 ## 💻 My Latest GitHub Repositories
 
 **Cybersecurity & Blockchain:**
-[![RangerBlock](https://img.shields.io/badge/RangerBlock-P2P_Blockchain-blue?logo=bitcoin&logoColor=white)](https://github.com/davidtkeane/ran
-gerblock)
-[![RangerPlex](https://img.shields.io/badge/RangerPlex-Security_Platform-red?logo=kalilinux&logoColor=white)](https://github.com/davidtkeane/r
-angerplex)
-[![Malware
-Lab](https://img.shields.io/badge/Malware-Analysis_Lab-orange?logo=virustotal&logoColor=white)](https://github.com/davidtkeane/malware-lab)
+[![RangerBlock](https://img.shields.io/badge/RangerBlock-P2P_Blockchain-blue?logo=bitcoin&logoColor=white)](https://github.com/davidtkeane/rangerblock)
+[![RangerPlex](https://img.shields.io/badge/RangerPlex-Security_Platform-red?logo=kalilinux&logoColor=white)](https://github.com/davidtkeane/rangerplex)
+[![Malware Lab](https://img.shields.io/badge/Malware-Analysis_Lab-orange?logo=virustotal&logoColor=white)](https://github.com/davidtkeane/malware-lab)
 
 **AI & Automation:**
 [![Ollama CLI](https://img.shields.io/badge/Ollama-CLI-yellow?logo=ai&logoColor=white)](https://github.com/davidtkeane/ollama-tests)
 [![OpenAI CLI](https://img.shields.io/badge/OpenAI-CLI-green?logo=openai&logoColor=white)](https://github.com/davidtkeane/openai-tests)
-[![qCPU System](https://img.shields.io/badge/qCPU-Virtual_Processors-purple?logo=cplusplus&logoColor=white)](https://github.com/davidtkeane/qc
-pu-system)
+[![qCPU System](https://img.shields.io/badge/qCPU-Virtual_Processors-purple?logo=cplusplus&logoColor=white)](https://github.com/davidtkeane/qcpu-system)
 
 **Productivity & Tools:**
-[![Todoist
-CLI](https://img.shields.io/badge/Todoist-CLI-yellow?logo=todoist&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
-[![PhoneBook
-CLI](https://img.shields.io/badge/PhoneBook-CLI-blue?logo=contacts&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
+[![Todoist CLI](https://img.shields.io/badge/Todoist-CLI-yellow?logo=todoist&logoColor=white)](https://github.com/davidtkeane/todoist-cli-python-api)
+[![PhoneBook CLI](https://img.shields.io/badge/PhoneBook-CLI-blue?logo=contacts&logoColor=white)](https://github.com/davidtkeane/PhoneBook-CLI)
 [![ChatGPT CLI](https://img.shields.io/badge/ChatGPT-CLI-teal?logo=openai&logoColor=white)](https://github.com/davidtkeane/ChatGPT-CLI)
 [![Gmail CLI](https://img.shields.io/badge/Gmail-CLI-red?logo=gmail&logoColor=white)](https://github.com/davidtkeane/gmail-multi-cli)
 
