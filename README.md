@@ -258,12 +258,9 @@ style="margin-bottom: 5px;" />
 
 ## 📈 Github Stats
 
-<div align="center"><img
-src="https://github-readme-stats.vercel.app/api?username=davidtkeane&show_icons=true&count_private=true&hide_border=true&theme=dark"
-align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=davidtkeane&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=davidtkeane&theme=dark&hide_border=true" align="center"
-/></div>
+<div align="center"><img src="https://streak-stats.demolab.com/?user=davidtkeane&theme=dark&hide_border=true" align="center" /></div>
 
 <br/>
 
