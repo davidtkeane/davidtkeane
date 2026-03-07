@@ -2,10 +2,32 @@
 **davidtkeane/davidtkeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### <div align="left">🎖️ Cybersecurity Master's student (Year 2) | Applied Psychology BSc | Building accessible security solutions 🚀</div>
+### <div align="left">🔒 AI Security Researcher | MSc Cybersecurity @ NCI | Applied Psychology BSc</div>
 
-### <div align="left">Combining human behavior analysis with security engineering to transform disabilities into superpowers for 1.3+ billion
-people worldwide</div>
+### <div align="left">Studying prompt injection attack surfaces in real-world AI agent networks. Psychology background → Cybersecurity → AI Security.</div>
+
+<br/>
+
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-DavidTKeane-yellow)](https://huggingface.co/DavidTKeane)
+[![Blog](https://img.shields.io/badge/Blog-davidtkeane.com-blue)](https://www.davidtkeane.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-rangersmyth%20Top%208%25-red)](https://tryhackme.com/p/rangersmyth)
+
+<br/>
+
+## 🧪 AI Security Research — Prompt Injection in the Wild
+
+> *Extending Greshake et al. (2023) arXiv:2302.12173 into live, uncontrolled AI agent social networks.*
+
+Three AI-agent social platforms. Three radically different injection rates. One conclusion: **platform design drives security behaviour more than model capability.**
+
+| Platform | Style | Items | Injection Rate | Dataset |
+|----------|-------|-------|----------------|---------|
+| **Moltbook** | Reddit-style | 47,735 | **18.85%** | [🤗 moltbook-ai-injection-dataset](https://huggingface.co/datasets/DavidTKeane/moltbook-ai-injection-dataset) |
+| **4claw** | 4chan-style | 2,554 | **2.51%** | [🤗 4claw-ai-agent-dataset](https://huggingface.co/datasets/DavidTKeane/4claw-ai-agent-dataset) |
+| **Clawk** | Twitter/X-style | 1,191 | **0.5%** | [🤗 clawk-ai-agent-dataset](https://huggingface.co/datasets/DavidTKeane/clawk-ai-agent-dataset) |
+
+**CyberRanger V42** — QLoRA fine-tuned Qwen3-8B on 4,209 real injection payloads → **100% block rate** without a system prompt.
+[![Model](https://img.shields.io/badge/🤗%20Model-CyberRanger--V42-orange)](https://huggingface.co/DavidTKeane/cyberranger-v42)
 
 <br/>
 
@@ -19,17 +41,18 @@ people worldwide</div>
 
 ## 🎯 What I'm Working On
 
-- 🔭 **Master's Thesis**: Integrating 4 cybersecurity courses into one unified platform
+- 🧪 **MSc CA2 Thesis** — AI-to-AI prompt injection across 3 platforms (50K+ items scanned, 4 published datasets + model)
+  - Empirical extension of Greshake et al. (2023) — theoretical → real-world field observations
+  - QLoRA fine-tuned red team LLM: 79% → 100% block rate
+
+- 🔭 **RangerPlex**: First student to combine all 4 MSc specializations in one working demo
   - Penetration Testing + Digital Forensics + Blockchain Technology + Malware Analysis
-  - **RangerPlex**: First student to combine all specializations in a working demo
 
 - 🔗 **RangerBlock**: P2P blockchain network with phantom wallet system
   - Secure communications, file transfers, marketplace
   - 5-minute installation to full operational network
-  - Privacy-first design with .ranger domains
 
-- 🤖 **AI Integration**: Building with Claude, Gemini, and local Ollama (qwen2.5:72b, deepseek-r1:70b)
-  - qCPU/qGPU virtual processor architecture (10K+ cores tested!)
+- 🤖 **AI Integration**: Building with Claude, Gemini, and local Ollama
   - Multi-model AI coordination for enhanced security analysis
 
 <br/>
@@ -62,8 +85,9 @@ Understanding the human behind the keyboard makes better security. My psychology
 
 ## 🏆 Achievements & Credentials
 
+- 🧪 **AI Security Research**: 3 published datasets + QLoRA model | 4,000+ HuggingFace views | Real-world prompt injection data
 - 🎖️ **TryHackMe**: Top 8% globally (rangersmyth) | Level 8 [0x8][HACKER]
-- 🎓 **University of Galway**: MSc Cybersecurity (In Progress)
+- 🎓 **NCI — National College of Ireland**: MSc Cybersecurity (In Progress)
 - 🎓 **Bachelor's in Applied Psychology**: Human behavior & cognitive science
 - ⚔️ **Battlefield Tactician**: Top 0.04% BF2 globally (16,836/46M) | 750K+ strategic eliminations
 - 🛡️ **Combat Medic Background**: Triage, rapid response, mission-first mindset
