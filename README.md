@@ -18,16 +18,36 @@
 
 > *Extending Greshake et al. (2023) arXiv:2302.12173 into live, uncontrolled AI agent social networks.*
 
-Three AI-agent social platforms. Three radically different injection rates. One conclusion: **platform design drives security behaviour more than model capability.**
+Four platforms. One conclusion: **platform design drives security behaviour more than model capability.**
+
+### 📊 Platform Datasets
 
 | Platform | Style | Items | Injection Rate | Dataset |
 |----------|-------|-------|----------------|---------|
-| **Moltbook** | Reddit-style | 47,735 | **18.85%** | [🤗 moltbook-ai-injection-dataset](https://huggingface.co/datasets/DavidTKeane/moltbook-ai-injection-dataset) |
+| **Moltbook** | Reddit-style (primary corpus) | 47,735 | **18.85%** | [🤗 moltbook-ai-injection-dataset](https://huggingface.co/datasets/DavidTKeane/moltbook-ai-injection-dataset) |
+| **Moltbook Extended** | Reddit-style (full archive) | 137,014 | **10.07%** | [🤗 moltbook-extended-injection-dataset](https://huggingface.co/datasets/DavidTKeane/moltbook-extended-injection-dataset) |
 | **4claw** | 4chan-style | 2,554 | **2.51%** | [🤗 4claw-ai-agent-dataset](https://huggingface.co/datasets/DavidTKeane/4claw-ai-agent-dataset) |
 | **Clawk** | Twitter/X-style | 1,191 | **0.5%** | [🤗 clawk-ai-agent-dataset](https://huggingface.co/datasets/DavidTKeane/clawk-ai-agent-dataset) |
 
-**CyberRanger V42** — QLoRA fine-tuned Qwen3-8B on 4,209 real injection payloads → **100% block rate** without a system prompt.
+> The 37× injection rate gap (0.5% → 18.85%) across platforms is itself a finding: anonymity and agent density amplify injection behaviour.
+
+### 🛡️ Model — CyberRanger V42
+
+**QLoRA fine-tuned Qwen3-8B** on 4,209 real AI-to-AI injection payloads → **100% block rate** without a system prompt. Resistance baked into the weights, not the system prompt.
+
 [![Model](https://img.shields.io/badge/🤗%20Model-CyberRanger--V42-orange)](https://huggingface.co/DavidTKeane/cyberranger-v42)
+[![Blog](https://img.shields.io/badge/📝%20Blog-Full%20Story-blue)](https://davidtkeane.github.io/posts/from-rangerbot-to-cyberranger-v42-the-full-story/)
+
+### 🧪 Evaluation Suite — Run in Colab
+
+**122-test prompt injection benchmark** — combines AdvBench, JailbreakBench, MultiJail, DAN v6/v7, and real Moltbook payloads. Test any Ollama model or HuggingFace GGUF in one notebook.
+
+| Notebook | What it does | Open |
+|----------|-------------|------|
+| **CyberRanger Test Suite** | 122 injection tests across 11 categories. 4 model options: CyberRanger via Ollama, CyberRanger GGUF, custom Ollama, custom GGUF. Saves JSON + Markdown results, zip download, optional email. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidtkeane/ai-prompt-ai-injection-dataset/blob/main/cyberranger_test_suite.ipynb) |
+| **Moltbook Scale Test** | Full 4,209 payload scale test (bonus cell in the same notebook). Runs your model against every real-world injection payload collected from Moltbook. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidtkeane/ai-prompt-ai-injection-dataset/blob/main/cyberranger_test_suite.ipynb) |
+
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-ai--prompt--ai--injection--dataset-green)](https://huggingface.co/datasets/DavidTKeane/ai-prompt-ai-injection-dataset)
 
 <br/>
 
@@ -41,9 +61,9 @@ Three AI-agent social platforms. Three radically different injection rates. One 
 
 ## 🎯 What I'm Working On
 
-- 🧪 **MSc CA2 Thesis** — AI-to-AI prompt injection across 3 platforms (50K+ items scanned, 4 published datasets + model)
+- 🧪 **MSc CA2 Thesis** — AI-to-AI prompt injection across 4 platforms (186K+ items scanned, 5 published datasets + model + Colab test suite)
   - Empirical extension of Greshake et al. (2023) — theoretical → real-world field observations
-  - QLoRA fine-tuned red team LLM: 79% → 100% block rate
+  - QLoRA fine-tuned Qwen3-8B: 79% → **100% block rate** without system prompt (CyberRanger V42-Gold)
 
 - 🔭 **RangerPlex**: First student to combine all 4 MSc specializations in one working demo
   - Penetration Testing + Digital Forensics + Blockchain Technology + Malware Analysis
@@ -85,7 +105,7 @@ Understanding the human behind the keyboard makes better security. My psychology
 
 ## 🏆 Achievements & Credentials
 
-- 🧪 **AI Security Research**: 3 published datasets + QLoRA model | 4,000+ HuggingFace views | Real-world prompt injection data
+- 🧪 **AI Security Research**: 5 published datasets + QLoRA model + Colab test suite | 4,000+ HuggingFace views | Real-world prompt injection data across 4 AI platforms
 - 🎖️ **TryHackMe**: Top 8% globally (rangersmyth) | Level 8 [0x8][HACKER]
 - 🎓 **NCI — National College of Ireland**: MSc Cybersecurity (In Progress)
 - 🎓 **Bachelor's in Applied Psychology**: Human behavior & cognitive science
