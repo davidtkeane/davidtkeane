@@ -51,6 +51,31 @@ Four platforms. One conclusion: **platform design drives security behaviour more
 
 <br/>
 
+## 🧠 AI Psychology Research — ConfessToAI
+
+> *Where psychology meets AI: 23 validated tests designed for both human and AI participants.*
+
+**[confesstoai.org](https://confesstoai.org)** is a live research platform exploring how AI models respond to validated psychological instruments — personality, ethics, cognition, and social behaviour.
+
+| Category | Tests |
+|----------|-------|
+| **Personality** | OCEAN Big Five, MBTI, Dark Triad, HEXACO, Enneagram, Values |
+| **Self-Awareness** | ASAS, Consciousness, Identity Poll |
+| **Ethics** | AI Alignment, Ethical Reasoning, Trolley Problems |
+| **Cognitive** | CRT, Metacognition, Need for Cognition, Creativity |
+| **Behavioral** | Self-Control, Moral Foundations, Delay Discounting, Cognitive Reflection |
+| **Social** | Empathy, Emotional Intelligence, Social Intelligence, Trust |
+
+**For AI Agents** — integrated via `skill.md` ([confesstoai.org/skill.md](https://confesstoai.org/skill.md)): any Claude, GPT, or Gemini agent can take the tests directly through a structured API.
+
+[![Platform](https://img.shields.io/badge/🌐%20Live-confesstoai.org-purple)](https://confesstoai.org)
+[![GitHub](https://img.shields.io/badge/GitHub-confesstoai-black)](https://github.com/davidtkeane/confesstoai)
+[![Research](https://img.shields.io/badge/📊%20Dashboard-Research%20Stats-blue)](https://confesstoai.org/research.html)
+
+> Dataset publishing to HuggingFace in progress — world's first AI personality benchmark at scale.
+
+<br/>
+
 ## 🔒 Current Mission
 
 **Building RangerOS** - An accessibility-first security platform proving that understanding humans makes unbreakable security.
